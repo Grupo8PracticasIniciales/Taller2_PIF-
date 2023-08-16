@@ -1,6 +1,6 @@
 # Taller 2 Grupo 8
 ## Manual "Instalación Ubuntu"
-:paperclip: Taller1:   17 de agosto de 2023
+:paperclip: Taller 2:   17 de agosto de 2023
 ![Usac Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Usac_logo.png)
 
 <!-- TABLES -->
