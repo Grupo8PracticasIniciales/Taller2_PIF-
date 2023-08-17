@@ -26,4 +26,4 @@
 # ____________________________________________________________
 ## Pagina Web 
 ### En el siguiente enlace se encuentra nuestro sitio web, donde podrá encontrar los video tutoriales de la instalación de linux y configuración de una red.
-- :file_folder:[Página Web](https://3942784100101.wixsite.com/my-site-2)
+- :file_folder:[Página Web](https://3942784100101.wixsite.com/taller-2)
