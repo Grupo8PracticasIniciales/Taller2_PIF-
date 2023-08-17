@@ -1,5 +1,5 @@
 # Taller 2 Grupo 8
-## Instalación Ubuntu y Conexiones de redes alambricas e inalambricas
+## Instalación de Linux y Conexiones de redes alambricas e inalambricas
 :paperclip: Taller 2:   17 de agosto de 2023
 ![Usac Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Usac_logo.png)
 
