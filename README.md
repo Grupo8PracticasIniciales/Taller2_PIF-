@@ -18,7 +18,7 @@
 # ____________________________________________________________
 ## Video 1 
 ### En el siguiente enlace podrá ver como se realizó la instalación de linux.
-- :file_folder:[Video](https://www.youtube.com/watch?v=d-Z3H7qswUk)
+- :file_folder:[Video](https://youtu.be/S-9lEn1t9vc)
 # ____________________________________________________________
 ## Video 2 
 ### En el siguiente enlace podrá ver como se realizó la configuración de una red.
